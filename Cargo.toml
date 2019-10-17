@@ -1,0 +1,11 @@
+[package]
+name = "trill"
+version = "0.1.0"
+authors = ["Jonathan Giroux <giroux.jo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+luminance = "0.37"
+luminance-derive = "0.5"
+luminance-glfw = "0.11"
+rosc = "0.2"
